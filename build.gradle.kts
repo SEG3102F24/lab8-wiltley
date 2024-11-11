@@ -8,7 +8,7 @@ plugins {
 group = "seg3x02"
 version = "0.0.1-SNAPSHOT"
 
-java {
+java
 	toolchain {
 		languageVersion = JavaLanguageVersion.of(21)
 	}
